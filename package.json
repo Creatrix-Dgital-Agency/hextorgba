@@ -1,0 +1,16 @@
+{
+    "name": "@creatrix/hextorgba",
+    "version": "0.0.1",
+    "description": "Javacript convert Hex to RGBA",
+    "contributors": [
+        "Michel Mouallem <michel-mouallem@hotmail.com> (https://creatrix-lb.com)"
+    ],
+    "main": "./hextorgba.js",
+    "module": "./hextorgba.js",
+    "repository": {
+        "type": "git",
+        "url": "https://www.creatrix-lb.com/"
+    },
+    "author": "Creatrix Digital Agency <developers@creatrix-lb.com>",
+    "license": "MIT"
+}
