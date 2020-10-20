@@ -9,8 +9,15 @@
     "module": "./hextorgba.js",
     "repository": {
         "type": "git",
-        "url": "https://www.creatrix-lb.com/"
+        "url": "git://github.com/creatrixlb/hextorgba.git"
     },
     "author": "Creatrix Digital Agency <developers@creatrix-lb.com>",
-    "license": "MIT"
+    "publishConfig": { "registry": "https://npm.pkg.github.com","access": "public","tag": "0.0.1" },
+    "license": "MIT",
+    "keywords": [
+        "convert",
+        "hex",
+        "to",
+        "rgba"
+      ]
 }
