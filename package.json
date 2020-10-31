@@ -2,22 +2,29 @@
     "name": "@creatrix/hextorgba",
     "version": "0.0.1",
     "description": "Javacript convert Hex to RGBA",
-    "contributors": [
-        "Michel Mouallem <michel-mouallem@hotmail.com> (https://creatrix-lb.com)"
-    ],
-    "main": "./hextorgba.js",
-    "module": "./hextorgba.js",
-    "repository": {
-        "type": "git",
-        "url": "git://github.com/creatrixlb/hextorgba.git"
+    "main": "hextorgba.js",
+    "scripts": {
+      "test": "echo \"Error: no test specified\" && exit 1"
     },
-    "author": "Creatrix Digital Agency <developers@creatrix-lb.com>",
-    "publishConfig": { "registry": "https://npm.pkg.github.com","access": "public","tag": "0.0.1" },
-    "license": "MIT",
+    "repository": {
+      "type": "git",
+      "url": "git+ssh://git@github.com/creatrixlb/hextorgba.git"
+    },
     "keywords": [
-        "convert",
-        "hex",
-        "to",
-        "rgba"
-      ]
-}
+      "convert",
+      "hex",
+      "color",
+      "to",
+      "rgba",
+      "pure",
+      "javascript",
+      "creatrix"
+    ],
+    "author": "Creatrix Digital Agency <developer@creatrix-lb.com> (https://creatrix-lb.com)",
+    "license": "ISC",
+    "bugs": {
+      "url": "https://github.com/creatrixlb/hextorgba/issues"
+    },
+    "homepage": "https://github.com/creatrixlb/hextorgba#readme"
+  }
+  
