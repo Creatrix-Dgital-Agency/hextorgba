@@ -1,14 +1,14 @@
 # hextorgba
 convert hex color to RGBA
 
-#installation
+# installation
 yarn add @creatrix/hextorgba
 
 or
 
 npm i @creatrix/hextorgba
 
-#example
+# example
 
 import {convertHexToRGBA} from @creatrix/hextorgba;
 
